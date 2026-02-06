@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @phillipho98
-- 👀 I’m interested in ... learning how to code my own private bot to checkout product online i.e. Shopify
-- 🌱 I’m currently learning ... css, html, javascript
-- 💞️ I’m looking to collaborate on ... anything of botting nature
-- 📫 How to reach me ... dragocopy on discord
+- 👋 Hi, I’m Phillip (@phillipho98)
+- 🧠 Full‑stack dev into TypeScript, React, Node.js, PostgreSQL
+- 🤖 Building AI‑powered apps, LLM workflows, and social media automation
+- 💻 Projects: AutoBrand (X automation SaaS), Mithrify (blockchain creds), SyntaxSocial (CS social network)
+- 🌱 Currently leveling up in full‑stack SaaS, DevOps, and LLM agents
+- 💼 Open to entry‑level / startup SWE roles
+- 📫 Reach me: phillip.ho98@gmail.com | linkedin.com/in/phillipdho
 
 <!---
 theavenger97/theavenger97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
